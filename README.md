@@ -1,4 +1,4 @@
-# PS Trip Planner - Spring Boot Backend
+# Intelligent Itinerary Generator with Spring Boot
 
 A Spring Boot REST API backend for intelligent trip planning powered by AI. This application generates personalized travel itineraries based on user preferences, budget, duration, and interests.
 
